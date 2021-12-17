@@ -8,6 +8,8 @@ I've used [ESP8266 WeMos D1 mini board](https://www.aliexpress.com/item/32651747
 
 After uploading sketch, you need to connect Word Clock 2 to internet. Using your smartphone or PC, connect to the new WiFi access point called **WordClock**, and configure WiFi settings. Please note: after updating using OTA, you need to reconfigure WiFi again - OTA update resets all stored credentials and settings.
 
+Demo video on YouTube:
+
 [![Word clock 2 demo](https://i9.ytimg.com/vi/m1BdXO-6UY0/mq1.jpg?sqp=CIjB840G&rs=AOn4CLBO_dV8YC4JmMbuIN-XGv1568BeBw)](https://youtu.be/m1BdXO-6UY0)
 
 Web UI schreenshots:
