@@ -10,7 +10,7 @@ After uploading sketch, you need to connect Word Clock 2 to internet. Using your
 
 Demo video on YouTube:
 
-[![Word clock 2 demo](https://i9.ytimg.com/vi/m1BdXO-6UY0/mq1.jpg?sqp=CIjB840G&rs=AOn4CLBO_dV8YC4JmMbuIN-XGv1568BeBw)](https://youtu.be/m1BdXO-6UY0)
+[![Word clock 2 demo](https://i9.ytimg.com/vi/m1BdXO-6UY0/mq3.jpg?sqp=CJiJ9o0G&rs=AOn4CLA4XwIi_jY3Gk9zbcDcq95QVl_HMg)](https://youtu.be/m1BdXO-6UY0)
 
 Web UI schreenshots:
 
